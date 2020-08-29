@@ -1,3 +1,4 @@
 alias bot="ssh ubuntu@51.222.27.152"
 alias pass="echo wYZEAhSYKkRk"
 alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
+alias g++="g++ -std=c++17"
